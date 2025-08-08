@@ -20,7 +20,7 @@ Controllers are responsible for handling incoming **requests** and returning **r
 For this step, we'll create a new `CalendarController.ts` in our project. We can do that using Ts.ED cli:
 
 ```sh
-# npm -g @tsed/cli
+# npm i -g @tsed/cli
 tsed g controller Calendars
 ```
 
